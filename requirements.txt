@@ -1,0 +1,7 @@
+- Dado o numero da ultima mega-sena 26 - 29 - 34 - 38 - 50 - 60
+- Deve ser gerado 6 numeros aleatorios
+- Eles devem ser de 1 a 60
+- Eles nao podem se repetir no mesmo jogo
+- Nao pode fazer a mesma aposta duas vezes
+- Ao acertar a combinação mostrar o numero de tentativas
+- ruby, python, elixir
